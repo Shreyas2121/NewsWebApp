@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 227,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Jody Serrano",
+      "title": "Make the Notch on Your MacBook Pro More Festive With the Notchmeister App",
+      "description": "Apple’s newest MacBook Pros made quite an entrance this year. While the machines were lauded for their performance and features, the small, black notch at the top of the devices received outsized attention and created waves of controversy. You may love it. Yo…",
+      "url": "https://gizmodo.com/make-the-notch-on-your-macbook-pro-more-festive-with-th-1848238214",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/366f4dc41bca193eb79809a55580a6f4.png",
+      "publishedAt": "2021-12-18T02:08:00Z",
+      "content": "Apples newest MacBook Pros made quite an entrance this year. While the machines were lauded for their performance and features, the small, black notch at the top of the devices received outsized atte… [+1791 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Several Foxconn India workers hospitalised after food poisoning - source - Reuters",
+      "description": "Several employees of a Foxconn India unit, which makes iPhones for Apple Inc , were hospitalised on Saturday after a bout of food poisoning, a source familiar with the matter said.",
+      "url": "https://www.reuters.com/world/india/several-foxconn-india-workers-hospitalised-after-food-poisoning-source-2021-12-18/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66",
+      "publishedAt": "2021-12-18T06:02:00Z",
+      "content": "NEW DELHI, Dec 18 (Reuters) - Several employees of a Foxconn India unit, which makes iPhones for Apple Inc , were hospitalised on Saturday after a bout of food poisoning, a source familiar with the m… [+636 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benwajdi.com"
+      },
+      "author": null,
+      "title": "Is internet addiction eradicating the habit of reading?",
+      "description": "Comments",
+      "url": "https://benwajdi.com/2021/12/18/is-internet-addiction-eradicating-the-habit-of-reading/",
+      "urlToImage": null,
+      "publishedAt": "2021-12-18T04:13:24Z",
+      "content": "(Last Updated On: 18 December 2021)In the early 1990s, e-mail was spreading like wildfire. Among its early adopters, the most religious ones were from the academic community. In 1997, John Sutherland… [+11478 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Evjang.com"
+      },
+      "author": null,
+      "title": "To Understand Language Is to Understand Generalization",
+      "description": "In my essay “Just ask for Generalization”, I argued that some optimization capabilities, such as reinforcement learning from sub-optimal trajectories, might be better implemented by generalization than by construction. We have to generalize to unseen situatio…",
+      "url": "https://evjang.com/2021/12/17/lang-generalization.html",
+      "urlToImage": null,
+      "publishedAt": "2021-12-18T01:24:18Z",
+      "content": "In my essay Just ask for Generalization, I argued that some optimization capabilities, such as reinforcement learning from sub-optimal trajectories, might be better implemented by generalization than… [+16538 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "TikTok to launch its own delivery service with food from viral videos",
+      "description": "TikTok is well known as a social network for short videos, but what if someone told you that TikTok is also a restaurant? That’s exactly what the company is about to become in the US with the announcement of TikTok Kitchen, which will take viral food videos t…",
+      "url": "https://9to5mac.com/2021/12/17/tiktok-to-launch-its-own-delivery-service-with-food-from-viral-videos/",
+      "urlToImage": "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/TikTok-Kitchen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2021-12-18T00:12:05Z",
+      "content": "TikTok is well known as a social network for short videos, but what if someone told you that TikTok is also a restaurant? That’s exactly what the company is about to become in the US with the announc… [+1560 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yanko Design"
+      },
+      "author": "Sarang Sheth",
+      "title": "Nightwatch Magnifying Clock Dock – The ‘Most Inventive’ Apple Watch charging dock you’ll ever see",
+      "description": "Nightwatch Magnifying Clock Dock – The ‘Most Inventive’ Apple Watch charging dock you’ll ever seeThe Apple Watch might just be the world’s tiniest, least visible bedside clock. That screen was designed to tell the time from a maximum of...",
+      "url": "https://www.yankodesign.com/2021/12/17/nightwatch-magnifying-clock-dock-the-most-inventive-apple-watch-charging-dock-youll-ever-see/",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2021/12/nightwatch-magnifying-clock-dock-the-most-inventive-apple-watch-charging-dock-youll-ever-see/nightwatch_apple_watch_charging_dock_1.jpg",
+      "publishedAt": "2021-12-18T00:30:18Z",
+      "content": "The Apple Watch might just be the world’s tiniest, least visible bedside clock. That screen was designed to tell the time from a maximum of 2 feet away, so keeping it on your bedside table at night j… [+1752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Redac JDGe",
+      "title": "Avant Noël, voici comment gagner 130€ en 5 minutes (c’est gratuit)",
+      "description": "Jusqu'à lundi soir, Boursorama Banque offre 130 euros de prime à tous ses nouveaux clients. Cela implique d'ouvrir un compte (sans condition, gratuit et sans engagement) en quelques minutes... et puis c'est tout. Avec cette prime boostée, c'est le meilleur mo…",
+      "url": "https://www.journaldugeek.com/2021/12/18/avant-noel-boursorama-banque-vous-offre-130-euros-minutes/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2021/09/banque-offre.jpg",
+      "publishedAt": "2021-12-18T07:15:21Z",
+      "content": "Jusqu'à lundi soir, Boursorama Banque offre 130 euros de prime à tous ses nouveaux clients. Cela implique d'ouvrir un compte (sans condition, gratuit et sans engagement) en quelques minutes... et pui… [+5873 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Korben.info"
+      },
+      "author": "Korben",
+      "title": "Comment retrouver sa souris même avec un coup dans le nez ?",
+      "description": "Comment retrouver sa souris même avec un coup dans le nez ?",
+      "url": "https://korben.info/retrouver-souris-windows.html",
+      "urlToImage": "https://korben.info/app/uploads/2021/11/kkk82TjUs7Z4yc8GazVbfYLJvXT6JfEa.webp",
+      "publishedAt": "2021-12-18T08:00:00Z",
+      "content": "Si vous êtes sous macOS, vous connaissez forcément cette astuce pour retrouver votre curseur de souris sur l’écran. Il suffit de secouer votre souris et le curseur grossira immédiatement, vous permet… [+895 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MakeUseOf"
+      },
+      "author": "Alvin Wanjala",
+      "title": "How to See Your iPhone's Parts and Service History With iOS 15",
+      "description": "Not sure if an iPhone's part has ever been replaced? This iOS feature will let you know.",
+      "url": "https://www.makeuseof.com/view-iphone-parts-service-history/",
+      "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/pexels-tyler-lastovich-719399.jpg",
+      "publishedAt": "2021-12-18T01:05:12Z",
+      "content": "Apple's iOS 15 update added a host of new features to the iPhone. One of the new features available on the iPhone is a dedicated section named Parts and Service History. With it, you can see whether … [+5450 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MakeUseOf"
+      },
+      "author": "Alvin Wanjala",
+      "title": "How to Use App Privacy Report in iOS 15",
+      "description": "Find out what apps use your personal data on your iPhone with this nifty iOS feature.",
+      "url": "https://www.makeuseof.com/use-app-privacy-report-ios/",
+      "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iPhone-13-Pro-Max-display.jpeg",
+      "publishedAt": "2021-12-18T01:10:12Z",
+      "content": "Due to the increasing concerns over digital privacy, Apple, one of the most vocal companies on user privacy, has upped its game in this area. App Privacy Report, first available in iOS 15, enables yo… [+5256 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The A.V. Club"
+      },
+      "author": "Sam Barsanti",
+      "title": "HBO Max's Head Of The Class reboot is dead",
+      "description": "HBO Max’s reboot of classic sitcom Head Of The Class, from Bill Lawrence of Scrubs and Ted Lasso fame, has been canceled after only one season (which just premiered on the streaming service a little over a month ago). Like the original series from the ‘80s an…",
+      "url": "https://www.avclub.com/hbo-maxs-head-of-the-class-reboot-is-dead-1848238356",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/738862de68f66e7ea24f937cd06fe176.jpg",
+      "publishedAt": "2021-12-18T02:53:00Z",
+      "content": "HBO Maxs reboot of classic sitcom Head Of The Class, from Bill Lawrence of Scrubs and Ted Lasso fame, has been canceled after only one season (which just premiered on the streaming service a little o… [+1538 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling,Nariko Mizoguchi",
+      "title": "Spotify、ポッドキャストにアップルのような5つ星評価システムを導入",
+      "description": "ポッドキャストを聴いたことがある人なら、エンドロールでホストが「Apple Podcastにレビューを残してください」というのを聞いたことがあるだろう。これからは「Apple PodcastsとSpotifyにレビューを残してください」という文言に変わるかもしれない。\r\n\r\nSpotify（スポティファイ）は米国時間12月16日、ポッドキャストのディスカバリーを向上させようと、Apple（アップル）と同様の<a target=\"_blank\" href=\"https://newsroom.spotify.com/…",
+      "url": "https://jp.techcrunch.com/2021/12/18/2021-12-16-spotify-is-launching-apple-like-ratings-for-podcasts/",
+      "urlToImage": "https://jp.techcrunch.com/wp-content/uploads/2021/12/Spotify.jpeg?w=978",
+      "publishedAt": "2021-12-18T02:30:05Z",
+      "content": "Apple PodcastApple PodcastsSpotify\r\nSpotify1216Apple5Spotify\r\nAppleSpotifyTechCrunch\r\nSpotify5Apple\r\nApple PodcastsNew and NoteworthyApple\r\nFar too many podcasters (and an embarrassing number of podc… [+662 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik,Hiroshi Iwatani",
+      "title": "アップルがiPad上のアプリ開発のためにSwift Playgrounds 4をリリース",
+      "description": "Apple（アップル）が、Swift Playgrounds 4を公式に<a target=\"_blank\" href=\"https://developer.apple.com/news/?id=v868vy6e\" rel=\"noopener\">リリースした</a>と発表した。その新しいソフトウェアの最初の<a target=\"_blank\" href=\"https://jp.techcrunch.com/2021/06/08/2021-06-07-ipados-15-announced-at-wwdc-feat…",
+      "url": "https://jp.techcrunch.com/2021/12/18/2021-12-16-apple-releases-swift-playground-4-with-support-for-app-development-on-ipad/",
+      "urlToImage": "https://jp.techcrunch.com/wp-content/uploads/2021/12/swift-playgrounds-4.jpg?w=730",
+      "publishedAt": "2021-12-18T07:30:41Z",
+      "content": "AppleSwift Playgrounds 46WWDCSwiftUIiPhoneiPadiPadAppleApp Store ConnectApp Store\r\nApple: Swift PlaygroundsSwiftiPadSwift PlaygroundsMacXcodeiPadMac\r\n: Apple\r\nAppleSwiftSnippets LibrarySwiftUI\r\niPhon… [+108 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "Felix Frank",
+      "title": "Apple Kurzbefehle-App: Automatisiert Screenshots aus der Galerie aussortieren",
+      "description": "Ihr kennt das sicherlich: ein Screenshot von einem Meme hier, ein Screenshot von etwas, das man sich merken wollte, dort. Recht flott ist da die Galerie (Stichwort: Camera Roll) überflutet und die sonstigen Fotos gehen etwas unter. Ein Twitter-Nutzer hat...->…",
+      "url": "https://stadt-bremerhaven.de/apple-kurzbefehle-app-automatisiert-screenshots-aus-der-galerie-aussortieren/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2021/06/kurzbefehle-shortcuts.jpeg",
+      "publishedAt": "2021-12-18T05:30:11Z",
+      "content": "Ihr kennt das sicherlich: ein Screenshot von einem Meme hier, ein Screenshot von etwas, das man sich merken wollte, dort. Recht flott ist da die Galerie (Stichwort: Camera Roll) überflutet und die so… [+1411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Srad.jp"
+      },
+      "author": "headless",
+      "title": "Apple、子供を守る取り組みに関する Web ページから児童虐待コンテンツへの言及をすべて削除",
+      "description": "Apple が子供を守る取り組みに関する Web ページで、児童虐待コンテンツ (CSAM) に言及する記述をすべて削除している (Mac Rumors の記事、 Internet Archive 新旧比較)。\n\n8 月に公開されたこの Web ページは米国向けで、Apple デバイスで子供を性的虐待から守る取り組みの強化を紹介している。取り組みの中心となるのは CSAM の拡散防止であり、iOS / iPadOS デバイスで写真を iCloud 写真へ保存する際にデバイス上でスキャンを行うなどの対策が示されてい…",
+      "url": "https://apple.srad.jp/story/21/12/18/0321246/",
+      "urlToImage": "https://srad.jp/static/topics/slashback_64.png",
+      "publishedAt": "2021-12-18T04:32:00Z",
+      "content": "Apple Web (CSAM) (Mac Rumors Internet Archive )8 Web Apple CSAM iOS / iPadOS iCloud 9 \r\nCSAM iCloud CSAM (sexually explicit photos) (nudity)"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slickdeals.net"
+      },
+      "author": "quang.danny",
+      "title": "75\" Toshiba C350 Series LED 4K UHD Smart Fire TV $500 + Free Shipping",
+      "description": "Best Buy via Amazon has *75\" Toshiba C350 Series LED 4K UHD Smart Fire TV* (75C350KU) for *$499.99*. *Shipping is free*. \n \n*Note*, availability for delivery will vary by location. \n \nBest Buy has...",
+      "url": "https://slickdeals.net/f/15511600-75-toshiba-c350-series-led-4k-uhd-smart-fire-tv-500-free-shipping",
+      "urlToImage": "https://static.slickdealscdn.com/attachment/4/8/4/7/9/1/6/10984882.attach",
+      "publishedAt": "2021-12-18T01:30:54Z",
+      "content": "Best Buy via Amazon has 75\" Toshiba C350 Series LED 4K UHD Smart Fire TV (75C350KU) for $499.99. Shipping is free.Note, availability for delivery will vary by location.\r\nBest Buy has 75\" Toshiba C350… [+538 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cnbeta.com"
+      },
+      "author": "raymon725",
+      "title": "Statista用户协议调查：苹果用户或需耗费半小时阅读全文",
+      "description": "针对各大科技企业的使用条款 / 用户协议，Statista 刚刚在最新分享的信息图表中给出了高低排列。尽管在 18-34 岁的受访者中，高达 97% 的人都会不看直接点确认。但余下的 3% 少数派，显然也不可能都由律师等法律专业人士组成。以使用苹果服务必须创建的 Apple ID 附加声明为例，其字数达到了 7314 个。若每分钟可平均扫过 240 个单词，读完也得耗费 30 分钟。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/tech/1216131.htm",
+      "urlToImage": "https://static.cnbetacdn.com/article/2021/1218/1d72998c5cdcde7.png",
+      "publishedAt": "2021-12-18T05:31:54Z",
+      "content": "Statista \r\n 15260 \r\n Spotify8600 35 TikTok2451 31 \r\n4-7 Zoom Tinder Uber7243 / 6215 / 5658 30 / 53 / 24 \r\n 14 Instagram 2451 10 \r\nStatista Apple ID apple.com/privacy PDF\r\n iCloud"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Touchlab.jp"
+      },
+      "author": "Nakimo",
+      "title": "74%OFF：iOS版「モンスターハンター ストーリーズ」ほか［12月18日版］セール・お得情報",
+      "description": "App Storeの値下げ中アプリおよびお得な情報を紹介します。価格は掲載時のもので既に変更されている場合があるので、購入前にご確認ください。 有料アプリの購入や課金をする際は、App Store・Appleのサブスク・ […]\nThe post 74%OFF：iOS版「モンスターハンター ストーリーズ」ほか［12月18日版］セール・お得情報 first appeared on Touch Lab - タッチ ラボ.©2019 \"Touch Lab - タッチ ラボ\".",
+      "url": "http://touchlab.jp/2021/12/iphone-ipad-app-sale-20211218/",
+      "urlToImage": "http://touchlab.jp/wp-content/uploads/2021/12/app_sale_2021_12_18_0.jpg",
+      "publishedAt": "2021-12-18T03:45:46Z",
+      "content": "App Storeの値下げ中アプリおよびお得な情報を紹介します。価格は掲載時のもので既に変更されている場合があるので、購入前にご確認ください。\n\n有料アプリの購入や課金をする際は、App Store・Appleのサブスク・Apple公式ストアで使える「Apple Gift Card」を楽天で購入すると、ポイントがついてお得です。\nセール中のアプリ\nモンスターハンター ストーリーズ \nゲーム：20… [+839 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lefigaro.fr"
+      },
+      "author": "Maurin Picard",
+      "title": "New York, le réveil de la Ville-Monde",
+      "description": "BACK TO THE BIG APPLE (1/7) - La pandémie est passée, Manhattan a ployé et encaissé, mais jamais cédé. Le grand retour des visiteurs internationaux augure d'un avenir radieux pour Big Apple, plus humaine, plus solidaire, mais toujours aussi vibrionnante. Et a…",
+      "url": "https://www.lefigaro.fr/voyages/inspiration/new-york-le-reveil-de-la-ville-monde-20211218",
+      "urlToImage": "https://i.f1g.fr/media/cms/612x918_crop/2021/12/17/5682f7039e2d0e573d839e99fa7588972461ae4548ee99b9cf78a6195d60e609.png",
+      "publishedAt": "2021-12-18T07:30:06Z",
+      "content": "BACK TO THE BIG APPLE (1/7) - La pandémie est passée, Manhattan a ployé et encaissé, mais jamais cédé. Le grand retour des visiteurs internationaux augure d'un avenir radieux pour Big Apple, plus hum… [+1405 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Rachel Warren, Travis Hoium, and Connor Allen)",
+      "title": "Is the 60/40 Investing Approach Obsolete?",
+      "description": "The mix of stocks and bonds in your portfolio matters.",
+      "url": "https://www.fool.com/investing/2021/12/17/is-the-6040-investing-approach-obsolete/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/656140/gettyimages-1283955441.jpg",
+      "publishedAt": "2021-12-18T01:15:00Z",
+      "content": "While long-term investing is the most effective means of building and sustaining wealth via the stock market, there are a variety of ways that investors can apply this strategy to their personal port… [+4523 chars]"
+    }
+  ]
+}

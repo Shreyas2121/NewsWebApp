@@ -8,7 +8,7 @@ class App extends React.Component {
     return (
       <div>
         <NavBar />
-        <News />
+        <News pageSize={5} country="in" category="sports" />
       </div>
     );
   }
