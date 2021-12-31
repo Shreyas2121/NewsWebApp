@@ -45,8 +45,10 @@ const News = (props) => {
   };
 
   return (
-    <div className="container my-3">
-      <h2 className="text-center">NewsApp - Top Headlines</h2>
+    <div className="container" style={{ marginTop: "60px" }}>
+      <h2 className="text-center" style={{ color: "#007FFF" }}>
+        NewsApp - Top Headlines
+      </h2>
       {loading && <Spinner />}
 
       <InfiniteScroll
@@ -57,7 +59,7 @@ const News = (props) => {
       >
         <div className="container">
           <div className="row">
-            {this.state.articles.map((article) => (
+            {articles.map((article) => (
               <div className="col-md-4" key={article.url}>
                 <NewsItem
                   title={article.title ? article.title : ""}

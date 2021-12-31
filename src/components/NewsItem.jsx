@@ -27,7 +27,8 @@ const NewsItem = (props) => {
           <a
             href={newsUrl}
             target="norefererrer"
-            className="btn btn-sm btn-primary"
+            className="btn btn-sm"
+            style={{ backgroundColor: "#007FFF", borderRadius: "7px" }}
           >
             Read More
           </a>
