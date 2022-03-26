@@ -43,8 +43,10 @@ const News = ({ country, category, apiKey, pageSize, setProgress }) => {
   };
 
   return (
-    <div className="container my-3">
-      <h2 className="text-center">NewsApp - Top Headlines</h2>
+    <div className="container" style={{ marginTop: "60px" }}>
+      <h2 className="text-center" style={{ color: "#007FFF" }}>
+        NewsApp - Top Headlines
+      </h2>
       {loading && <Spinner />}
 
       <InfiniteScroll
