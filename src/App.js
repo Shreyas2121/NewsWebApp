@@ -4,7 +4,7 @@ import NavBar from "./components/NavBar";
 import News from "./components/News";
 import { useState } from "react";
 
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import LoadingBar from "react-top-loading-bar";
 
 const App = () => {
@@ -19,11 +19,12 @@ const App = () => {
 
   return (
     <div>
-      <Router>
-        <NavBar />
-        <LoadingBar color="#f11946" progress={progress} />
-        <Switch>
-          <Route exact path="/">
+      <NavBar />
+      <LoadingBar color="#f11946" progress={progress} />
+      <Routes>
+        <Route
+          path="/"
+          element={
             <News
               apiKey={apiKey}
               setProgress={setProgress1}
@@ -32,9 +33,12 @@ const App = () => {
               country="in"
               category="general"
             />
-          </Route>
+          }
+        />
 
-          <Route exact path="/business">
+        <Route
+          path="/business"
+          element={
             <News
               apiKey={apiKey}
               setProgress={setProgress1}
@@ -43,9 +47,12 @@ const App = () => {
               country="in"
               category="business"
             />
-          </Route>
+          }
+        />
 
-          <Route exact path="/entertainment">
+        <Route
+          path="/entertainment"
+          element={
             <News
               apiKey={apiKey}
               setProgress={setProgress1}
@@ -54,20 +61,23 @@ const App = () => {
               country="in"
               category="entertainment"
             />
-          </Route>
+          }
+        />
 
-          <Route exact path="/general">
-            <News
-              apiKey={apiKey}
-              setProgress={setProgress1}
-              key="general"
-              pageSize={pageSize}
-              country="in"
-              category="general"
-            />
-          </Route>
+        {/* <Route path="/general">
+          <News
+            apiKey={apiKey}
+            setProgress={setProgress1}
+            key="general"
+            pageSize={pageSize}
+            country="in"
+            category="general"
+          />
+        </Route> */}
 
-          <Route exact path="/health">
+        <Route
+          path="/health"
+          element={
             <News
               apiKey={apiKey}
               setProgress={setProgress1}
@@ -76,9 +86,12 @@ const App = () => {
               country="in"
               category="health"
             />
-          </Route>
+          }
+        />
 
-          <Route exact path="/science">
+        <Route
+          path="/science"
+          element={
             <News
               apiKey={apiKey}
               setProgress={setProgress1}
@@ -87,9 +100,12 @@ const App = () => {
               country="in"
               category="science"
             />
-          </Route>
+          }
+        />
 
-          <Route exact path="/sports">
+        <Route
+          path="/sports"
+          element={
             <News
               apiKey={apiKey}
               setProgress={setProgress1}
@@ -98,9 +114,12 @@ const App = () => {
               country="in"
               category="sports"
             />
-          </Route>
+          }
+        />
 
-          <Route exact path="/technology">
+        <Route
+          path="/technology"
+          element={
             <News
               apiKey={apiKey}
               setProgress={setProgress1}
@@ -109,9 +128,9 @@ const App = () => {
               country="in"
               category="technology"
             />
-          </Route>
-        </Switch>
-      </Router>
+          }
+        />
+      </Routes>
     </div>
   );
 };

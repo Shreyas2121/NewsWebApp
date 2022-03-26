@@ -1,30 +1,30 @@
 import React, { Component, useEffect } from "react";
 import NewsItem from "./NewsItem";
 import Spinner from "./Spinner";
-import PropTypes from "prop-types";
 import InfiniteScroll from "react-infinite-scroll-component";
 import { useState } from "react";
 
-const News = (props) => {
+const News = ({ country, category, apiKey, pageSize, setProgress }) => {
   const [articles, setArticles] = useState([]);
   const [loading, setloading] = useState(true);
   const [page, setpage] = useState(1);
   const [totalResults, settotalResults] = useState(0);
 
   const updateNews = async () => {
-    props.setProgress(10);
-    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&page=${page}&category=${props.category}&apiKey=${props.apiKey}&page=1&pageSize=${props.pageSize}`;
+    setProgress(10);
+    const url = `https://newsapi.org/v2/top-headlines?country=${country}&page=${page}&category=${category}&apiKey=${apiKey}&page=1&pageSize=${pageSize}`;
     setloading(true);
     let data = await fetch(url);
-    props.setProgress(30);
+    setProgress(30);
     let parsedData = await data.json();
-    props.setProgress(70);
+    console.log(parsedData);
+    setProgress(70);
 
     setArticles(parsedData.articles);
     settotalResults(parsedData.totalResults);
     setloading(false);
 
-    props.setProgress(100);
+    setProgress(100);
   };
 
   useEffect(() => {
@@ -32,11 +32,9 @@ const News = (props) => {
   }, []);
 
   const fetchMoreData = async () => {
-    const url = `https://newsapi.org/v2/top-headlines?country=${
-      props.country
-    }&page=${page + 1}&category=${props.category}&apiKey=${
-      props.apiKey
-    }&page=1&pageSize=${props.pageSize}`;
+    const url = `https://newsapi.org/v2/top-headlines?country=${country}&page=${
+      page + 1
+    }&category=${category}&apiKey=${apiKey}&page=1&pageSize=${pageSize}`;
     setpage(page + 1);
     let data = await fetch(url);
     let parsedData = await data.json();
@@ -57,7 +55,7 @@ const News = (props) => {
       >
         <div className="container">
           <div className="row">
-            {this.state.articles.map((article) => (
+            {articles.map((article) => (
               <div className="col-md-4" key={article.url}>
                 <NewsItem
                   title={article.title ? article.title : ""}
@@ -73,18 +71,6 @@ const News = (props) => {
       </InfiniteScroll>
     </div>
   );
-};
-
-News.defaultProps = {
-  country: "in",
-  pageSize: 5,
-  category: "general",
-};
-
-News.propTypes = {
-  country: PropTypes.string,
-  pageSize: PropTypes.number,
-  category: PropTypes.string,
 };
 
 export default News;
